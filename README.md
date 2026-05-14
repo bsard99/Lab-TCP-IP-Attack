@@ -6,7 +6,7 @@ This project explores common vulnerabilities within the TCP protocol. I performe
 ## Technical Skills Demonstrated
 * **Protocol Analysis:** TCP Three-Way Handshake, SYN/ACK mechanisms.
 * **Scripting:** Developed automated attack scripts using **Python** and the **Scapy** library.
-* **Environment:** Conducted in a containerized environment using **Docker** (SEED Labs).
+* **Environment:** Conducted in a containerized environment using **Docker** (SEED Labs, Ubuntu VM). https://seedsecuritylabs.org/Labs_20.04/Files/TCP_Attacks/TCP_Attacks.pdf
 * **Tools:** Wireshark, Netcat (nc), Scapy, Linux/Ubuntu.
 
 ## Lab Components
