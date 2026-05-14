@@ -1,5 +1,8 @@
 # Lab-TCP-IP-Attack
 
+## Full Documentation
+You can view the full technical report here: [TCP/IP Attack Lab (PDF)](./Lab-TCP-IP-Attack.pdf)
+
 ## Lab Overview
 This project explores common vulnerabilities within the TCP protocol. I performed a SYN Flood Denial-of-Service (DoS) attack and established a reverse shell connection to demonstrate how protocol-level weaknesses can be exploited to disrupt services and gain unauthorized access.
 
